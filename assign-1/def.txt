@@ -1,0 +1,27 @@
+1. odd or even
+2. addition,subtraction,multiplication, divison
+3. palindrome
+4. armstrong
+5. reverse
+6. prime or not
+7. fibonacci series
+8. WAP which is find largest no from 3 no using ternary operator.
+9. WAP which find armstrong no from 1 to 1000
+10. WAP which find prime no between 1 to 100
+11. WAP that find factorial of N no.
+12. WAP which find palindrome no between 1 to 100
+13. WAP which initialize two 3*3 matrix and print addition of that matrix.
+14. WAP to perform arithmetic operation using command line argument.
+15. perform following pattern.
+*
+* *
+* * *
+* * * *
+* * * * *
+
+16. WAP to assign 3 subject marks and print the total and average and class of student and apply the following condition for the class:
+average>=70	distinction
+average>=60	First class
+average>=50	Second class
+average>=40	pass
+average<40	fail

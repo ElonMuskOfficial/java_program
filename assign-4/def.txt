@@ -1,0 +1,10 @@
+1. define an interface AddSubtract with two method void addtion(int,int),void subtraction(int,int) and another interface MultiplyDivide with two method void multiply(int,int), and void divide(int,int) extends first interface into second interface and implements the interface into suitable class.
+
+2. create an interface containing division of two method that float compute_area(float,float), float compute_perimeter(float,float).
+create two different class rectangle and circle and implements above two methods in this class. in main two object create rectangle and circle using new operator for assign then into an object of type interface and display area and perimeter respectively.
+
+3. create your exception that will arise when length of string is less than 10
+
+4. write a program that will alllow user to enter number through command line and calculate their division and handle all exception like user can provide 1,2 two argument that divide by exception will occur.
+
+5. Define an exception called “NoMatchFoundException” that is thrown when the String is not equal to “University” .write a program or this exception.

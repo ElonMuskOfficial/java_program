@@ -1,0 +1,45 @@
+1. WAP to perform simple interest using class and object.
+2. WAP to display no between 1 to 100 which is divided by 5.
+3. WAP to display sum using method overloading.
+4. WAP of constructor overloading which is used default and parameterized.
+5. WAP to perform swap two values using class, object and method.
+6. WAP to display sum of two integers no using static function.
+7. WAP check no is Armstrong or not using approproate class,object and method name.
+8. WAP to demonstrate this keyword.
+9. WAP to display multiplication of two integer number using final variable.
+10. pring following pattern: 
+
+1
+2 3
+4 5 6
+7 8 9 10		
+11 12 13 14 15		
+
+      *
+    * 1 *
+  * 1 * 1 *
+    * 1 *
+      *
+
+        A
+      A B
+    A B C
+  A B C D
+A B C D E
+
+
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
